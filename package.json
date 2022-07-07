@@ -10,7 +10,7 @@
     "et-line": "^1.0.1",
     "express": "^4.15.4",
     "express-session": "^1.15.5",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "mongoose": "^4.11.9",
     "passport": "^0.4.0",
     "passport-github2": "^0.1.10",
