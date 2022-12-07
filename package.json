@@ -4,11 +4,11 @@
   "private": true,
   "dependencies": {
     "axios": "^0.16.2",
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.20.1",
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.3",
     "et-line": "^1.0.1",
-    "express": "^4.15.4",
+    "express": "^4.18.2",
     "express-session": "^1.15.5",
     "moment": "^2.18.1",
     "mongoose": "^4.11.9",
